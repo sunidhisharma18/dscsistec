@@ -341,19 +341,6 @@ i.fab {
     font-size: 40px;
 }
 
-i.fa {
-    display: inline-block;
-    border-radius: 50%;
-    font-size: 40px;
-    box-shadow: 2px 2px 4px #888;
-    padding: 10px 10px;
-    margin: 10px 20px;
-}
-
-i.fa:hover {
-    box-shadow: 4px 4px 8px #888;
-}
-
 i.fab:hover {
     box-shadow: 4px 4px 8px #888;
 }
